@@ -22,7 +22,7 @@ clear;
 close all;
 clc;
 
-%% The first step, we need to collect the data from the csv fill 
+%% The first step, we need to collect the data from the csv file 
 
 % The links file need to have the link number in the first column, then     
 % the coordinates of the link in the column 2 and 3 and then the region of 
